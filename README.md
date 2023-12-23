@@ -6,5 +6,5 @@
 
  - Fine-tune BERT for text classification with TensorFlow 2 and TensorFlow Hub
 
-BERT layer and tokenizer: https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/2
-Dataset : https://www.kaggle.com/c/quora-question-pairs/data
+- BERT layer and tokenizer: https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/2
+- Dataset : https://www.kaggle.com/c/quora-question-pairs/data
